@@ -3,5 +3,5 @@ Aplikasi absensi menggunakan Java dan Arduino dengan modul RFID (Radio Frequency
 
 untnuk menggunakan aplikasi ini diperlukan beberapa aplikasi tambahan seperti
 - Driver JDBC MYSQL for Java
-- Commrtx.jar
+- javaxcomm.jar
 
