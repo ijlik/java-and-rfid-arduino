@@ -5,4 +5,3 @@ untuk menggunakan aplikasi ini diperlukan beberapa aplikasi tambahan seperti
 - Driver JDBC MYSQL for Java
 - javaxcomm.jar
 
-## IKI APLIKASI KEREN LOH
