@@ -1,4 +1,5 @@
 # java-and-rfid-arduino
+# MVP TEAM
 Aplikasi absensi menggunakan Java dan Arduino dengan modul RFID (Radio Frequency Identifier)
 
 untuk menggunakan aplikasi ini diperlukan beberapa aplikasi tambahan seperti
