@@ -6,3 +6,4 @@ untuk menggunakan aplikasi ini diperlukan beberapa aplikasi tambahan seperti
 - javaxcomm.jar
 - netbeans
 - jdk
+- OS
