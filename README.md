@@ -8,3 +8,5 @@ untuk menggunakan aplikasi ini diperlukan beberapa aplikasi tambahan seperti
 - jdk
 
 lihat https://youtu.be/S4zNtt3vFDQ
+
+untuk tutorial download library silahkan cari di google
